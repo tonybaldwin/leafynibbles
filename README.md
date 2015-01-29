@@ -1,7 +1,7 @@
 # Leafy Nibbleblog Template
 ========
 
-by Tony Baldwin (http://tonbaldwin.me, http://myownsite.me)
+by Tony Baldwin (http://tonybaldwin.me, http://myownsite.me)
 
 ![Leafy Nibbles](http://tonybaldwin.me/images/leafynibbles.jpg)
 
